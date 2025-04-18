@@ -1,0 +1,1 @@
+import '@/ai/flows/rank-assessments.ts';
